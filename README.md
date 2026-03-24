@@ -47,9 +47,6 @@
 
 ## Instructions
 
-### Python
-
-To run the code in Python, please go into the `python` folder and execute the Python scripts in each of the respective sub-folders.
 
 ### C++
 
@@ -82,16 +79,5 @@ cd ..
 ./build/detect_vid
 ```
 
-
-
-## Outputs
-
-### Image Classification
-
-* ![](outputs/result_image.jpg)
-
-### Object Detection
-
-* ![](outputs/image_result.jpg)
 
   
