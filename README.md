@@ -1,4 +1,4 @@
-# Deep Learning with OpenCV's DNN Module
+# OpenCV's DNN Module
 
 
 
